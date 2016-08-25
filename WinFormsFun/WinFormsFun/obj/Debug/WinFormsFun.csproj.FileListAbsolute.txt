@@ -1,0 +1,9 @@
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\bin\Debug\WinFormsFun.exe.config
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\bin\Debug\WinFormsFun.exe
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\bin\Debug\WinFormsFun.pdb
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\obj\Debug\WinFormsFun.csprojResolveAssemblyReference.cache
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\obj\Debug\WinFormsFun.Properties.Resources.resources
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\obj\Debug\WinFormsFun.csproj.GenerateResource.Cache
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\obj\Debug\WinFormsFun.exe
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\obj\Debug\WinFormsFun.pdb
+c:\users\brendan.chappel\documents\visual studio 2015\Projects\WinFormsFun\WinFormsFun\obj\Debug\WinFormsFun.Interface.resources
